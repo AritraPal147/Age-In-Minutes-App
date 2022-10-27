@@ -90,9 +90,9 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="5dp"
-        android:text="Selected Date"
+        android:text="Age in Minutes"
         android:textColor="@color/textRed"
-        android:textSize="18sp"
+        android:textSize="20sp"
         android:textStyle="bold"
         />
 
